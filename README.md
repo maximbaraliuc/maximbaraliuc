@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
     Badge testing...
-![Codewars Badge](https://www.codewars.com/users/maxbrlc/badges/small)
+    
+    
+<a href="https://www.codewars.com/users/maxbrlc"><img src="https://www.codewars.com/users/maxbrlc/badges/small" alt="Codewars Badge"></a>
