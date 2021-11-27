@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Codewars Badge](https://www.codewars.com/users/maxbrlc/badges/small)
+    Badge testing...
+![Codewars Badge](https://www.codewars.com/users/maxbrlc/badges/large)
